@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan Kasuari`",
+      "id": 3
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan Tulip",
+      "id": 4
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan Pancasila`",
+      "id": 5
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan Pupan",
+      "id": 6
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan Simatupang",
+      "id": 7
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan Kebayoran",
+      "id": 8
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan H goden",
+      "id": 9
+    },
+    {
+      "name": "Anggi",
+      "age": 24,
+      "address": "Jalan H Muhi",
+      "id": 10
+    }
+  ]
+}

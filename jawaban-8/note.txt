@@ -1,0 +1,5 @@
+pada line 22 penutup object tidak ada pemisah atau koma untuk object selanjutnya
+pada line 428 tidak ada penutup string di value attribute
+pada line 438 valueAsString tidak memiliki value
+pada line 540 ketika mau merubah string ke integer array yang di tunjuk tidak memiliki index yang di tuju
+pada line 541 value yang di tentukan tidak tetap maka dari itu saya menambahkan operator ternary untuk mengecek apakah data ada atau tidak
